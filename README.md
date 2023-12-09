@@ -1,2 +1,2 @@
 # ViT
-ViT  Vision Transformer
+Vision Transformer
